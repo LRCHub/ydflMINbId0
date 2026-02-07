@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Memento",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-02-07T03:07:20.190456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "Youssoupha",
+      "has_synced": true,
+      "path": "select/01_Memento_Youssoupha.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Moonspell",
+      "has_synced": true,
+      "path": "select/02_Memento_Mori_Moonspell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "Visions of Atlantis",
+      "has_synced": true,
+      "path": "select/03_Memento_Visions_of_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/04_Memento_Mori_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Kamelot",
+      "has_synced": false,
+      "path": "select/05_Memento_Mori_Kamelot.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Memento Mori (Live)",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/06_Memento_Mori_(Live)_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Aephanemer",
+      "has_synced": true,
+      "path": "select/07_Memento_Mori_Aephanemer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "MUNA",
+      "has_synced": true,
+      "path": "select/08_Memento_MUNA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "Epica",
+      "has_synced": true,
+      "path": "select/09_Memento_Epica.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "The Agonist",
+      "has_synced": true,
+      "path": "select/10_Memento_Mori_The_Agonist.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Memento Mori: the most important thing in the world",
+      "artist": "Will Wood",
+      "has_synced": true,
+      "path": "select/11_Memento_Mori__the_most_important_thing_in_the_world_Will_Wood.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Memento Mori (feat. Killstation)",
+      "artist": "Polyphia feat. Killstation",
+      "has_synced": true,
+      "path": "select/12_Memento_Mori_(feat._Killstation)_Polyphia_feat._Killstation.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Polyphia feat․ Killstation",
+      "has_synced": true,
+      "path": "select/13_Memento_Mori_Polyphia_feat._Killstation.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Memento Mori (Instrumental)",
+      "artist": "Polyphia",
+      "has_synced": true,
+      "path": "select/14_Memento_Mori_(Instrumental)_Polyphia.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "nonoc",
+      "has_synced": true,
+      "path": "select/15_Memento_nonoc.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "nonoc",
+      "has_synced": true,
+      "path": "select/16_Memento_nonoc.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Memento",
+      "artist": "The New Division",
+      "has_synced": false,
+      "path": "select/17_Memento_The_New_Division.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Anathema",
+      "has_synced": false,
+      "path": "select/18_Memento_Mori_Anathema.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Memento Mori",
+      "artist": "Architects",
+      "has_synced": false,
+      "path": "select/19_Memento_Mori_Architects.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Memento",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_Memento_Mori_Calliope.txt"
+    }
+  ]
+}
